@@ -25,7 +25,7 @@ pytest
 pyink
 pre-commit
 pytype
-sentencepiece==0.1.97
+sentencepiece==0.2.1
 tensorflow-text>=2.13.0
 tensorflow>=2.13.0
 tensorflow-datasets
